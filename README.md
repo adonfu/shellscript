@@ -1,9 +1,11 @@
-# shell_script
-Linux  Bash
+### Redis自动安装脚本
+redis_centos.sh
 
-Redis自动安装脚本
-redis_centos.sh添加可以执行权限即可运行： chmod u+x redis_centos.sh
+添加执行权限:
+  chmod u+x redis_centos.sh
 
-env_install_*.sh 依赖包安装
+### 依赖包安装脚本
+env_install_*.sh 
 
-mysql_install_*.sh mysql-server安装
+### mysql-server安装脚本
+mysql_install_*.sh 
