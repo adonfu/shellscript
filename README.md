@@ -12,3 +12,4 @@ mysql_install_*.sh
 
 
 ### Wiki
+https://github.com/adonfu/shellscript/wiki
